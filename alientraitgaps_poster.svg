@@ -166,11 +166,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="644.68919"
-     inkscape:cy="688.90093"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="836.05979"
+     inkscape:cy="4120.1477"
      inkscape:document-units="mm"
-     inkscape:current-layer="g9911"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -376,7 +376,7 @@
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect984);fill:#000000;fill-opacity:1;stroke:none;"
        transform="translate(-44.901281,-18.174328)"><tspan
          x="69.490234"
-         y="1122.2739"><tspan>Boring Logos</tspan></tspan></text>
+         y="1122.2739"><tspan>Boring Logos and Acknowledgments</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text988"
@@ -477,17 +477,17 @@
         <a
            id="a9867"
            xlink:href="https://twitter.com/LeNematode"
-           style="fill:#000080;fill-opacity:1">
+           style="fill:#0000ee;fill-opacity:1">
           <text
              xml:space="preserve"
              id="text9576"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#000080;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#0000ee;fill-opacity:1;stroke:none;"
              transform="translate(-11.446358,30.163721)"
              x="33.140625"
              y="145.18423"><tspan
                x="33.140625"
                y="120.66617"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1">@LeNematode</tspan></tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ee;fill-opacity:1">@LeNematode</tspan></tspan></text>
         </a>
         <use
            xlink:href="#twitter-square"
@@ -505,17 +505,17 @@
         <a
            id="a9857"
            xlink:href="mailto:matthias.grenie@idiv.de"
-           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#000080;fill-opacity:1">
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#0000ee;fill-opacity:1">
           <text
              xml:space="preserve"
              id="text1084"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#000080;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#0000ee;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;"
              transform="translate(-11.566075,-6.0792842)"
              x="33.140625"
              y="120.66617"><tspan
                x="33.140625"
                y="120.66617"><tspan
-                 style="shape-inside:url(#rect1086);fill:#000080;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">matthias.grenie@idiv.de
+                 style="shape-inside:url(#rect1086);fill:#0000ee;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">matthias.grenie@idiv.de
 </tspan></tspan></text>
         </a>
         <use
@@ -534,17 +534,17 @@
         <a
            id="a9862"
            xlink:href="https://rekyt.github.io"
-           style="fill:#000080;fill-opacity:1">
+           style="fill:#0000ee;fill-opacity:1">
           <text
              xml:space="preserve"
              id="text9570"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#000080;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1086);fill:#0000ee;fill-opacity:1;stroke:none;"
              transform="translate(-11.566075,10.872471)"
              x="33.140625"
              y="132.9252"><tspan
                x="33.140625"
                y="120.66617"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000080;fill-opacity:1">https://rekyt.github.io/
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.80722px;font-family:Verdana;-inkscape-font-specification:'Verdana, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#0000ee;fill-opacity:1">https://rekyt.github.io/
 </tspan></tspan></text>
         </a>
         <use
