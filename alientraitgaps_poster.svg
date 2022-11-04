@@ -3146,11 +3146,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.84062624"
-     inkscape:cx="1979.0616"
-     inkscape:cy="1863.374"
+     inkscape:zoom="0.29720626"
+     inkscape:cx="1563.797"
+     inkscape:cy="1362.1498"
      inkscape:document-units="mm"
-     inkscape:current-layer="g104272"
+     inkscape:current-layer="layer7"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -3158,7 +3158,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-grids="false"
      inkscape:snap-text-baseline="true"
@@ -3284,6 +3284,9 @@
        inkscape:label="golden_ratio_bottom_margin_bottom"
        inkscape:locked="false"
        inkscape:color="rgb(173,127,168)" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid4727" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -3301,7 +3304,8 @@
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        id="text12"
@@ -3522,8 +3526,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Institutional Logos"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g141947"
        inkscape:label="iDiv-logo-pa-brand-small-4c"
@@ -4032,8 +4036,7 @@
        inkscape:groupmode="layer"
        id="layer5"
        inkscape:label="Alien Species Picture"
-       style="opacity:1"
-       sodipodi:insensitive="true">
+       style="opacity:1">
       <image
          y="228.49339"
          x="5"
@@ -4078,7 +4081,8 @@
        style="display:inline">
       <g
          id="g146938"
-         transform="matrix(1.1551225,0,0,1.1551225,332.24488,231.86961)">
+         transform="matrix(1.1551225,0,0,1.1551225,332.24488,231.86961)"
+         sodipodi:insensitive="true">
         <g
            inkscape:label="GloNAF DB"
            id="layer1-1"
@@ -4525,10 +4529,11 @@
       <g
          inkscape:groupmode="layer"
          id="layer9"
-         inkscape:label="Correspondence Table">
+         inkscape:label="Correspondence Table"
+         style="display:inline">
         <g
            id="g9636"
-           transform="translate(2.1166667)">
+           transform="translate(134.40836)">
           <text
              xml:space="preserve"
              id="text14639-1-5-9"
@@ -4986,26 +4991,27 @@
         </g>
         <path
            id="path142796-7"
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+           style="display:inline;fill:#686868;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
            inkscape:transform-center-x="4.7912813e-06"
-           d="m 744.3384,325.12143 c -3.07164,2.60268 -4.78896,2.60268 -7.86059,0 -1.53582,-1.30134 -19.5564,-21.12469 -19.5564,-25.38129 0,-4.2566 18.02058,-24.07995 19.5564,-25.38129 3.07163,-2.60268 4.78895,-2.60268 7.86059,0 3.07164,2.60269 3.07164,48.1599 0,50.76258 z"
+           d="m 876.63015,325.12143 c -3.07164,2.60268 -4.78896,2.60268 -7.86059,0 -1.53582,-1.30134 -19.5564,-21.12469 -19.5564,-25.38129 0,-4.2566 18.02058,-24.07995 19.5564,-25.38129 3.07163,-2.60268 4.78895,-2.60268 7.86059,0 3.07164,2.60269 3.07164,48.1599 0,50.76258 z"
            sodipodi:nodetypes="sszsss" />
       </g>
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer13"
-       inkscape:label="Trait Combinations">
+       inkscape:label="Trait Combinations"
+       sodipodi:insensitive="true">
       <text
          xml:space="preserve"
          id="text141883-9"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect141885-5);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
          transform="translate(300.25937,276.91751)"
-         x="71.602638"
+         x="147.92073"
          y="0"><tspan
            x="44.69368"
            y="119.75958"><tspan
-             style="font-weight:bold">Leaf-Height-Seed Mass</tspan><tspan
+             style="font-weight:bold;text-align:center;text-anchor:middle">Leaf-Height-Seed Mass</tspan><tspan
              style="text-align:center;text-anchor:middle">
 </tspan></tspan><tspan
            x="36.404807"
@@ -5016,11 +5022,11 @@
          id="text141883-9-8"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect141885-5-8);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
          transform="translate(462.72746,280.9956)"
-         x="71.602638"
+         x="137.16432"
          y="0"><tspan
            x="55.041853"
            y="119.75958"><tspan
-             style="font-weight:bold">Aboveground Traits</tspan><tspan
+             style="font-weight:bold;text-align:center;text-anchor:middle">Aboveground Traits</tspan><tspan
              style="text-align:center;text-anchor:middle">
 </tspan></tspan><tspan
            x="47.577216"
@@ -5031,11 +5037,11 @@
          id="text141883-9-8-0"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect141885-5-8-0);display:inline;fill:#000000;fill-opacity:1;stroke:none;"
          transform="translate(598.99162,273.26824)"
-         x="71.602638"
+         x="152.78088"
          y="0"><tspan
            x="92.652182"
            y="119.75958"><tspan
-             style="font-weight:bold">Root Traits</tspan><tspan
+             style="font-weight:bold;text-align:center;text-anchor:middle">Root Traits</tspan><tspan
              style="text-align:center;text-anchor:middle">
 </tspan></tspan><tspan
            x="43.28326"
@@ -5058,15 +5064,15 @@
          y="0"
          width="100%"
          height="100%"
-         transform="translate(422.02012,248.84152)" />
+         transform="matrix(1.1163454,0,0,1.1163454,417.91017,243.18078)" />
       <path
-         d="m 428.22175,418.06865 c 0,7.68576 -5.72374,14.03871 -13.13889,15.01972 -0.48036,-3.61285 -2.07028,-6.87389 -4.41796,-9.42454 2.59124,-4.6277 7.54369,-7.76019 13.22683,-7.76019 h 2.16501 c 1.19751,0 2.16501,0.96748 2.16501,2.16501 z m -34.6401,4.33 c 0,-1.19751 0.96749,-2.165 2.16501,-2.165 h 2.165 c 8.3691,0 15.15504,6.78594 15.15504,15.15504 v 2.16501 6.49501 c 0,1.19752 -0.96748,2.16501 -2.165,2.16501 -1.19752,0 -2.16501,-0.96749 -2.16501,-2.16501 v -6.49501 c -8.3691,0 -15.15504,-6.78594 -15.15504,-15.15505 z"
+         d="m 437.3496,418.40365 c 0,8.87499 -6.60938,16.21094 -15.17189,17.34375 -0.55469,-4.17187 -2.39062,-7.9375 -5.10156,-10.88282 2.99219,-5.34375 8.71094,-8.96093 15.27344,-8.96093 h 2.5 c 1.38281,0 2.50001,1.11718 2.50001,2.5 z m -40.00001,4.99999 c 0,-1.3828 1.11719,-2.49999 2.5,-2.49999 h 2.5 c 9.66406,0 17.5,7.83594 17.5,17.5 v 2.5 7.5 c 0,1.38281 -1.11718,2.5 -2.5,2.5 -1.38281,0 -2.5,-1.11719 -2.5,-2.5 v -7.5 c -9.66406,0 -17.5,-7.83593 -17.5,-17.50001 z"
          id="path103962"
-         style="stroke-width:0.0676561" />
+         style="stroke-width:0.0781246" />
       <path
-         d="m 388.21362,465.28087 c -0.86087,0.86087 -2.26037,0.86087 -3.12584,0 l -4.23992,-4.24452 c -0.86087,-0.86087 -0.86087,-2.26037 0,-3.12584 l 2.33403,-2.33403 2.20972,2.20973 c 0.28543,0.28542 0.75499,0.28542 1.04042,0 0.28542,-0.28542 0.28542,-0.75499 0,-1.04041 l -2.20973,-2.20973 1.90589,-1.90589 2.20973,2.20973 c 0.28542,0.28542 0.75499,0.28542 1.04041,0 0.28542,-0.28543 0.28542,-0.75499 0,-1.04042 l -2.20973,-2.20972 1.90589,-1.90589 2.20973,2.20973 c 0.28542,0.28542 0.75499,0.28542 1.04041,0 0.28543,-0.28543 0.28543,-0.755 0,-1.04042 l -2.20973,-2.20973 1.9059,-1.90588 2.20972,2.20972 c 0.28542,0.28542 0.75499,0.28542 1.04041,0 0.28543,-0.28542 0.28543,-0.75499 0,-1.04041 l -2.20972,-2.20973 2.33402,-2.33403 c 0.86088,-0.86087 2.26037,-0.86087 3.12585,0 l 4.23991,4.23992 c 0.86088,0.86087 0.86088,2.26037 0,3.12584 z"
+         d="m 402.58262,474.61836 c 1.29822,1.29822 3.40871,1.29822 4.71387,0 l 6.39394,-6.40087 c 1.29822,-1.29822 1.29822,-3.40871 0,-4.71387 l -3.5198,-3.5198 -3.33233,3.33235 c -0.43043,0.43042 -1.13855,0.43042 -1.56898,0 -0.43043,-0.43042 -0.43043,-1.13855 0,-1.56897 l 3.33234,-3.33235 -2.87414,-2.87414 -3.33235,3.33234 c -0.43043,0.43043 -1.13855,0.43043 -1.56897,0 -0.43042,-0.43044 -0.43042,-1.13855 0,-1.56898 l 3.33234,-3.33233 -2.87414,-2.87415 -3.33235,3.33235 c -0.43043,0.43042 -1.13854,0.43042 -1.56897,0 -0.43044,-0.43044 -0.43044,-1.13857 0,-1.56899 l 3.33235,-3.33235 -2.87416,-2.87413 -3.33233,3.33233 c -0.43043,0.43043 -1.13855,0.43043 -1.56897,0 -0.43044,-0.43042 -0.43044,-1.13855 0,-1.56897 l 3.33233,-3.33234 -3.51978,-3.5198 c -1.29825,-1.29822 -3.40872,-1.29822 -4.71389,0 l -6.39392,6.39394 c -1.29824,1.29822 -1.29824,3.40871 0,4.71387 z"
          id="path103983"
-         style="stroke-width:0.0460359" />
+         style="stroke-width:0.0694236" />
       <g
          id="g104272"
          transform="matrix(0.35277777,0,0,0.35277777,517.244,378.60761)">
@@ -5138,13 +5144,11 @@
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="Figure 3 - Trait Proportion Maps"
-       style="display:inline"
-       sodipodi:insensitive="true" />
+       style="display:inline" />
     <g
        inkscape:groupmode="layer"
        id="layer3"
-       inkscape:label="Figure 2 - Alien Richness Map"
-       sodipodi:insensitive="true">
+       inkscape:label="Figure 2 - Alien Richness Map">
       <g
          id="g49835"
          transform="translate(-50.64881,-2.2678572)">
@@ -12661,8 +12665,7 @@
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Figure 1 - Heatmap and frequencies"
-       style="opacity:1"
-       sodipodi:insensitive="true">
+       style="opacity:1">
       <g
          id="g20123"
          transform="matrix(0.64224908,0,0,0.64224908,48.8879,602.6989)">
